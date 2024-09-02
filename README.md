@@ -1,6 +1,6 @@
 # Dual-Path Adversarial Lifting for Domain Shift Correction in Online Test-time Adaptation
 
-This is the official project repository for [Dual-Path Adversarial Lifting for Domain Shift Correction in Online Test-time Adaptation]. This repository is built based on the [SAR 🔗](https://github.com/mr-eggplant/SAR).
+This is the official project repository for [Dual-Path Adversarial Lifting for Domain Shift Correction in Online Test-time Adaptation](https://arxiv.org/abs/2408.13983). This repository is built based on the [SAR 🔗](https://github.com/mr-eggplant/SAR).
 
 <p align="center">
 <img src="figures/DPAL.png" alt="DPAL" width="100%" align=center />
@@ -9,7 +9,7 @@ This is the official project repository for [Dual-Path Adversarial Lifting for D
 
 **Installation**:
 
-DCT depends on
+DPAL depends on
 
 - Python 3
 - [PyTorch](https://pytorch.org/) = 1.9.0
